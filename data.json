@@ -1,0 +1,44 @@
+{
+    "animals": [
+        {
+            "name": "tiger",
+            "weight": 500,
+            "speed": 70
+        },
+        {
+            "name": "elephant",
+            "weight": 1000,
+            "speed": 20
+        },
+        {
+            "name": "lion",
+            "weight": 400,
+            "speed": 60
+        },
+        {
+            "name": "cat",
+            "weight": 10,
+            "speed": 40
+        },
+        {
+            "name": "fish",
+            "weight": 2,
+            "speed": 30
+        },
+        {
+            "name": "bird",
+            "weight": 1,
+            "speed": 50
+        },
+        {
+            "name": "dog",
+            "weight": 30,
+            "speed": 35
+        },
+        {
+            "name": "squirrel",
+            "weight": 3,
+            "speed": 25
+        }
+    ]
+}
